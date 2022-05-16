@@ -1,7 +1,7 @@
-- 👋 Hi, I’m ==@CAfeng==
+- 👋 Hi, I’m **@CAfeng**
 - 👀 I’m interested in `Python`
 - 🌱 I’m currently learning `Python`
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m learning
 - 📫 How to reach me ...
 
 <!---
